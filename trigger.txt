@@ -1,1 +1,1 @@
-langgenius/dify-worker:0.6.11 registry.cn-hangzhou.aliyuncs.com/docker_dify/dify-worker:0.6.11
+langgenius/dify-worker:latest registry.cn-hangzhou.aliyuncs.com/docker_dify/dify-worker:latest
