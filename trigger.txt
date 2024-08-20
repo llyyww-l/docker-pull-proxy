@@ -1,1 +1,1 @@
-langgenius/dify-web:0.6.11 registry.cn-hangzhou.aliyuncs.com/docker_dify/dify-web:0.6.11
+redis:6-alpine registry.cn-hangzhou.aliyuncs.com/docker_dify/redis:6-alpine
