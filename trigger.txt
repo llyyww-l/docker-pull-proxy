@@ -1,1 +1,1 @@
-langgenius/dify-web:0.7.0 registry.cn-hangzhou.aliyuncs.com/docker_dify/dify-web:0.7.0
+langgenius/dify-api:0.7.0 registry.cn-hangzhou.aliyuncs.com/docker_dify/dify-api:0.7.0
