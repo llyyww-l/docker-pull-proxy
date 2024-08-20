@@ -1,1 +1,1 @@
-nginx:latest registry.cn-hangzhou.aliyuncs.com/docker_dify/nginx:latest
+langgenius/dify-worker:0.6.11 registry.cn-hangzhou.aliyuncs.com/docker_dify/dify-worker:0.6.11
