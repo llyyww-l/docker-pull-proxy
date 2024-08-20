@@ -1,1 +1,1 @@
-postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/docker_dify/postgres:15-alpine
+langgenius/dify-api:0.6.11 registry.cn-hangzhou.aliyuncs.com/docker_dify/dify-api:0.6.11
